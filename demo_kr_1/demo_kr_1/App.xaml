@@ -1,0 +1,15 @@
+﻿<Application x:Class="demo_kr_1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:demo_kr_1"
+             StartupUri="Login_window.xaml">
+    <Application.Resources>
+        <Style TargetType="Window">
+            <Setter Property="FontFamily" Value="Times New Roman">
+                
+                
+            </Setter>
+
+        </Style>
+    </Application.Resources>
+</Application>
